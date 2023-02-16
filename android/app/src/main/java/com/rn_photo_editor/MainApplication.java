@@ -1,4 +1,4 @@
-package com.photo_editor_app;
+package com.rn_photo_editor;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "photo_editor_app.app"
-               BlueprintName = "photo_editor_app"
-               ReferencedContainer = "container:photo_editor_app.xcodeproj">
+               BuildableName = "rn_photo_editor.app"
+               BlueprintName = "rn_photo_editor"
+               ReferencedContainer = "container:rn_photo_editor.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "photo_editor_appTests.xctest"
-               BlueprintName = "photo_editor_appTests"
-               ReferencedContainer = "container:photo_editor_app.xcodeproj">
+               BuildableName = "rn_photo_editorTests.xctest"
+               BlueprintName = "rn_photo_editorTests"
+               ReferencedContainer = "container:rn_photo_editor.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "photo_editor_app.app"
-            BlueprintName = "photo_editor_app"
-            ReferencedContainer = "container:photo_editor_app.xcodeproj">
+            BuildableName = "rn_photo_editor.app"
+            BlueprintName = "rn_photo_editor"
+            ReferencedContainer = "container:rn_photo_editor.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "photo_editor_app.app"
-            BlueprintName = "photo_editor_app"
-            ReferencedContainer = "container:photo_editor_app.xcodeproj">
+            BuildableName = "rn_photo_editor.app"
+            BlueprintName = "rn_photo_editor"
+            ReferencedContainer = "container:rn_photo_editor.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

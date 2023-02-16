@@ -1,4 +1,4 @@
-package com.photo_editor_app;
+package com.rn_photo_editor;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "photo_editor_app";
+    return "rn_photo_editor";
   }
 
   /**

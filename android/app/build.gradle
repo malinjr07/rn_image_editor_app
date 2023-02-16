@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.photo_editor_app"
+    namespace "com.rn_photo_editor"
     defaultConfig {
-        applicationId "com.photo_editor_app"
+        applicationId "com.rn_photo_editor"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
