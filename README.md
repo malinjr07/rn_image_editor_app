@@ -13,6 +13,7 @@ This task is to create a simple image-editor mobile application using React Nati
 ## Source Control Instructions
 
 You have been given access to this repository till Saturday, Feb 18, 2023. Please make sure to:
+- Please make sure to complete this assignment by Saturday, Feb 18, 2023
 - Organize your checkins with meaningful commit messages
 - Push your commits to the GitLab repository on regular intervals for peer review
 - Follow consistent naming conventions for variables and files throughout the project
